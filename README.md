@@ -1,4 +1,4 @@
-# My App
+# Banking CLI Application
 
 ## Version
 0.1.0
